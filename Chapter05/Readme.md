@@ -1,3 +1,4 @@
+# Genetic Algorithms for IoT
 In the last chapter, we saw different deep learning-based algorithms, these algorithms have shown their success in the field of recognition, detection, reconstruction and even generation of vision, speech and text data. While at present deep learning is on top in terms of both application and employability, it has a close competition with evolutionary algorithms. The Algorithms inspired by the natural process of evolution, the world's best optimizers. Yep, even we are the result of years of genetic evolution. In this chapter, you will be introduced to the fascinating world of evolutionary algorithms and learn about a specific type of evolutionary algorithms, i.e. genetic algorithms in more detail. After reading this chapter you will:
 
 * Know what is optimization.
