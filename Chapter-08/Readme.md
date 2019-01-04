@@ -1,8 +1,7 @@
-Now that you are fully equipped with machine learning and deep learning knowledge, and have learned how to use it for big data, image tasks, text task and time series data. It is the time to explore some real uses of the algorithms and the techniques that you have learned. This chapter and the following two chapters will now concentrate on some specific case studies. This chapter will focus on personal and home IoT use-cases. After going through the chapter you will:
+The advances in distributed computing environments and an easy availability of internet worldwide has resulted in the emergence of Distributed AI. In this chapter, we will learn about two frameworks one by Apache the MLLib and another H2O.ai, both provide distributed and scalable machine learning for large, streaming data. The chapter will start with an introduction to Apache's Spark the defacto distributed data processing system.  By the end of the chapter you will:
 
-* Know about the successful IoT applications.
-* Learn about wearables and their role in personal IoT.
-* Learn how to monitor heart using machine learning.
-* Understand what makes home "smart home".
-* Learn about some devices used in smart home
-* Explore the application of AI in controlling electrical expenditure.
+* Know about Spark and its importance in distributed data processing
+* Understand the Spark architecture
+* Learn about MLLib
+* Use MLLib in your deep learning pipeline
+* Delve deep into H2O.ai platform
