@@ -5,4 +5,4 @@ Now that you are fully equipped with machine learning and deep learning knowledg
 * Learn how to monitor heart using machine learning.
 * Understand what makes home "smart home".
 * Learn about some devices used in smart home
-* Explore the application of AI in controlling electrical expenditure.
+* Explore the application of AI in predicting human activity recognition
