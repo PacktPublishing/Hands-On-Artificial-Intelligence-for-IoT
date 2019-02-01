@@ -8,7 +8,8 @@ This is the code repository for [Hands-On Artificial Intelligence for IoT](https
 
 ## What is this book about?
 There are many applications that use data science and analytics to gain insights from terabytes of data. These apps, however, do not address the challenge of continually discovering patterns for IoT data. In Hands-On Artificial Intelligence for IoT, we cover various aspects of artificial intelligence (AI) and its implementation to make your IoT solutions smarter.
-This book covers the following exciting features: <First 5 What you'll learn points>
+
+This book covers the following exciting features:
 * Apply different AI techniques including machine learning and deep learning using TensorFlow and Keras
 * Access and process data from various distributed sources
 * Perform supervised and unsupervised machine learning for IoT data
