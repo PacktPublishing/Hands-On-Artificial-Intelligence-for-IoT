@@ -30,7 +30,7 @@ A = tf.placeholder(tf.float32, None, name='A')
 B = tf.placeholder(tf.float32, None, name='B')
 ```
 
-** Following is what you need for this book: **
+** Following is what you need for this book:**
 
 If you are a data science professional or a machine learning developer looking to build smart systems for IoT, Hands-On Artificial Intelligence for IoT is for you. If you want to learn how popular artificial intelligence (AI) techniques can be used in the Internet of Things domain, this book will also be of benefit. A basic understanding of machine learning concepts will be required to get the best out of this book.
 
