@@ -8,8 +8,7 @@ This is the code repository for [Hands-On Artificial Intelligence for IoT](https
 
 ## What is this book about?
 There are many applications that use data science and analytics to gain insights from terabytes of data. These apps, however, do not address the challenge of continually discovering patterns for IoT data. In Hands-On Artificial Intelligence for IoT, we cover various aspects of artificial intelligence (AI) and its implementation to make your IoT solutions smarter.
-
-This book covers the following exciting features:
+This book covers the following exciting features: <First 5 What you'll learn points>
 * Apply different AI techniques including machine learning and deep learning using TensorFlow and Keras
 * Access and process data from various distributed sources
 * Perform supervised and unsupervised machine learning for IoT data
@@ -25,12 +24,13 @@ alt="https://www.packtpub.com/" border="5" /></a>
 ## Instructions and Navigations
 All of the code is organized into folders. For example, Chapter02.
 
+The code will look like the following:
 ```
 A = tf.placeholder(tf.float32, None, name='A')
 B = tf.placeholder(tf.float32, None, name='B')
 ```
 
-** Following is what you need for this book:**
+**Following is what you need for this book:**
 
 If you are a data science professional or a machine learning developer looking to build smart systems for IoT, Hands-On Artificial Intelligence for IoT is for you. If you want to learn how popular artificial intelligence (AI) techniques can be used in the Internet of Things domain, this book will also be of benefit. A basic understanding of machine learning concepts will be required to get the best out of this book.
 
@@ -43,7 +43,7 @@ With the following software and hardware list you can run all code files present
 | 1         | TensorFlow1.x Python 3.5>  Numpy 1.14>| Windows10 MacOS 10.x Ubuntu 16.04+ |
 | 2         | TensorFlow1.x Python 3.5>  Numpy 1.14>| Windows10 MacOS 10.x Ubuntu 16.04+ |
 |           | Keras         OpenpyXL     SQL        |                                    |
-|		    | HDFS          H5py                    |                                    |
+|		        | HDFS          H5py                    |                                    |
 |           |                                       |                                    |
 | 3,5,7,9,11| TensorFlow1.x Python 3.5>  Numpy 1.14>| Windows10 MacOS 10.x Ubuntu 16.04+ |
 |           | Keras         Scikit Learn Matplotlib |                                    |
@@ -53,11 +53,11 @@ With the following software and hardware list you can run all code files present
 |           | Keras         Scikit Learn Matplotlib |                                    |
 |           | Pandas        Open AI Gym  Random     |                                    |
 |           |                                       |                                    |  
-| 8         | TensorFlow1.x Python 3.5>  Numpy 1.14>| 
-|           | Keras         Scikit Learn Matplotlib |
-|           | Scipy         Pandas       Kafka      |
-|			| TensorFrames  SparkDL      PySpark    |
-|			| TensorFlowOnSpark                     |
+| 8         | TensorFlow1.x Python 3.5>  Numpy 1.14>| Ubuntu 16.04                       |
+|           | Keras         Scikit Learn Matplotlib |                                    |
+|           | Scipy         Pandas       Kafka      |                                    |
+|		 	      | TensorFrames  SparkDL      PySpark    |                         
+|			      | TensorFlowOnSpark                     |
 
 
 
