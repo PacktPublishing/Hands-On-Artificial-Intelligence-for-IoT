@@ -45,7 +45,7 @@ With the following software and hardware list you can run all code files present
 |           | Keras         OpenpyXL     SQL        |                                    |
 |		        | HDFS          H5py                    |                                    |
 |           |                                       |                                    |
-| 3,5,7,9,11| TensorFlow1.x Python 3.5>  Numpy 1.14>| Windows10 MacOS 10.x Ubuntu 16.04+ |
+| 3-5,7,9-11| TensorFlow1.x Python 3.5>  Numpy 1.14>| Windows10 MacOS 10.x Ubuntu 16.04+ |
 |           | Keras         Scikit Learn Matplotlib |                                    |
 |           | Pandas        Scipy                   |                                    |
 |           |                                       |                                    |
